@@ -1,6 +1,6 @@
 # structure-data
-\\ data structure 
-\\ Include 
+<br> data structure 
+<br> Include 
 \\bubble sort
 \\merge sort
 \\quick sort

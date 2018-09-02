@@ -1,15 +1,15 @@
 # structure-data
 <br> data structure 
 <br> Include 
-\\bubble sort
-\\merge sort
-\\quick sort
-\\insertion sort
-\\shell sort
-\\binary tree
-\\graph
-\\linear search
-\\binary search
-\\hash table
-\\linked list
-\\and some algorithm
+<br>bubble sort
+<br>merge sort
+<br>quick sort
+<br>insertion sort
+<br>shell sort
+<br>binary tree
+<br>graph
+<br>linear search
+<br>binary search
+<br>hash table
+<br>linked list
+<br>and some algorithm
